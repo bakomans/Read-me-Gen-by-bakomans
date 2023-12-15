@@ -1,0 +1,51 @@
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Generated files
+.DS_Store
+.env
+
+# Log files
+logs
+*.log
+
+# Dependency directories
+pids
+.lock-wscript
+.build/
+.sconsign.dblite
+CVS
+.svn
+.hg
+.mercurial
+*.orig
+*.rej
+*.bak
+*.swp
+Thumbs.db
+ehthumbs.db
+
+# Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Windows
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
