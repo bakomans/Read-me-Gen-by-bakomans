@@ -60,7 +60,7 @@
 <h2>Questions</h2>
 <p>For questions or concerns, please contact me at <a href="mailto:Bakomans@gmail.com">Bakomans@gmail.com</a>.</p>
 <p>You can also find more information and my other projects on:</p>
-<p><a href="www.linkedin.com/in/tomasz-bachula-2530871a6">LinkedIn</a> | <a href="undefined">GitHub</a></p>
+<p><a href="www.linkedin.com/in/tomasz-bachula-2530871a6">LinkedIn</a> | <a href="https://github.com/bakomans">GitHub</a></p>
 
 
 <h2 id="photos-movies">Photos/Movies</h2>
