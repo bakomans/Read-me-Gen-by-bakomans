@@ -38,4 +38,4 @@
 
 <h2 id="photos-movies">Photos/Movies</h2>
 <p>Check out the project photos and movies:</p>
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1bxfi6-94rfZJrAd_YhHE0HIGySJTwjRQ/view" frameborder="0" allowfullscreen></iframe>
+<p><a href="https://drive.google.com/file/d/1bxfi6-94rfZJrAd_YhHE0HIGySJTwjRQ/view" target="_blank">Link to Project Video</a></p>
